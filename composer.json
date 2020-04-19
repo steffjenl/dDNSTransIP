@@ -1,5 +1,5 @@
 {
-    "name": "steffjenl/ddns-transip",
+    "name": "steffjenl/ddnstransip",
     "description": "dynamic dns script for transip services",
     "type": "project",
     "license": "GPL",
