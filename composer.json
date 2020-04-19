@@ -1,0 +1,17 @@
+{
+    "name": "steffjenl/ddns-transip",
+    "description": "dynamic dns script for transip services",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Stephan Eizinga",
+            "email": "stephan@monkeysoft.nl"
+        }
+    ],
+    "require": {
+        "transip/transip-api-php": "^6.0",
+        "vlucas/phpdotenv": "^4.1",
+        "ext-curl": "*"
+    }
+}
